@@ -1,6 +1,17 @@
 # crypto-app
 
-## Project setup
+## Live Demo
+[https://romantic-liskov-075554.netlify.app/](https://romantic-liskov-075554.netlify.app/)
+
+### Tech Stack
+```
+Vue
+Bootstrap-Vue
+Axios
+CoinGecko API
+```
+
+### Project setup
 ```
 npm install
 ```
