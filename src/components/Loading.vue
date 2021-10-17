@@ -6,10 +6,6 @@
   </b-row>
 </template>
 
-<script>
-export default {};
-</script>
-
 <style scoped>
 .loading {
   width: 3rem;

@@ -8,9 +8,7 @@
 
     <Loading v-if="loading" />
 
-    <template v-else>
-      <Coins :filtered-coins="filteredCoins" />
-    </template>
+    <Coins v-else :filtered-coins="filteredCoins" />
   </b-container>
 </template>
 
